@@ -1,0 +1,17 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)”处使用了该属性。
+D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(372,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(socket.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mime.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(152,26): warning C4459: “b64unbase”的声明隐藏了全局声明
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(76,11): message : 参见“b64unbase”的声明
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(346,25): warning C4459: “qpclass”的声明隐藏了全局声明
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(66,11): message : 参见“qpclass”的声明
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(346,38): warning C4459: “qpunbase”的声明隐藏了全局声明
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(68,11): message : 参见“qpunbase”的声明
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\mime.c(708,28): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+  lua.lib(lapi.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+    正在创建库 C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\x64\Release\mime.lib 和对象 C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\x64\Release\mime.exp
+  正在生成代码
+  已完成代码的生成
+  mime.vcxproj -> C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\x64\Release\mime.dll

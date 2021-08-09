@@ -1,0 +1,37 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)”处使用了该属性。
+D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(372,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(mime.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  auxiliar.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\auxiliar.c(59,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\auxiliar.c(96,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\auxiliar.c(110,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  buffer.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\buffer.c(56,36): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\buffer.c(57,32): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\buffer.c(66,62): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\buffer.c(67,54): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\buffer.c(93,39): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\buffer.c(95,39): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+  except.c
+  inet.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\inet.c(265,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  io.c
+  luasocket.c
+  options.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\options.c(37,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  select.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\select.c(133,33): warning C4244: “函数”: 从“t_socket”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\select.c(174,33): warning C4244: “函数”: 从“t_socket”转换到“lua_Number”，可能丢失数据
+  tcp.c
+  timeout.c
+  udp.c
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\udp.c(128,27): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\src\udp.c(157,27): warning C4244: “函数”: 从“size_t”转换到“lua_Number”，可能丢失数据
+  wsocket.c
+  正在生成代码...
+  lua.lib(lapi.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+    正在创建库 C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\x64\Release\socket.lib 和对象 C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\x64\Release\socket.exp
+  正在生成代码
+  已完成代码的生成
+  socket.vcxproj -> C:\Users\renyu\Downloads\luasocket-2.0.2 (3)\luasocket-2.0.2\x64\Release\socket.dll
